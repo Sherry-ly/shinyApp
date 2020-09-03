@@ -1,4 +1,5 @@
 library(shiny)
+setwd("/home/research/temp_shiny/earnings_arb3/analytics")
 source("ea_loader.r")
 
 
