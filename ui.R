@@ -19,3 +19,4 @@ shinyUI(fluidPage(
             plotOutput("plots")
         )
     )
+))
