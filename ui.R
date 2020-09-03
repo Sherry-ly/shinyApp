@@ -15,8 +15,7 @@ shinyUI(fluidPage(
 
         # Show a plot of the generated distribution
         mainPanel(
-            h3(textOutput("caption")),
-            plotOutput("plots")
+            h3(textOutput("caption"))
         )
     )
 ))
